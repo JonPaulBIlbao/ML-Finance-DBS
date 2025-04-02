@@ -6,7 +6,7 @@ This folder contains notebooks and materials related to logistic regression in t
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|----------------|
-| **Logistic_Regression_Churn.ipynb** | Binary classification using logistic regression on a telecom churn dataset. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JonPaulBIlbao/ML-Finance-DBS/blob/Machine-Learning-in-Finance-DBS/logistic_regression/Logistic_Regression_Churn.ipynb) |
+| **Logistic_Regression_churn.ipynb** | Binary classification using logistic regression on a telecom churn dataset. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JonPaulBIlbao/ML-Finance-DBS/blob/Machine-Learning-in-Finance-DBS/logistic_regression/Logistic_Regression_churn.ipynb) |
 | **Logistic_Regression_Score_Cutoffs.ipynb** | Interpreting probabilities, thresholds, and confusion matrices in logistic regression. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JonPaulBIlbao/ML-Finance-DBS/blob/Machine-Learning-in-Finance-DBS/logistic_regression/Logistic_Regression_Score_Cutoffs.ipynb) |
 
 ## 📂 Data files
